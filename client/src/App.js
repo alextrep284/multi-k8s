@@ -10,6 +10,7 @@ function App() {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
+          <h1>Fib Calculator version KUBERNETES!</h1>
           <Link to="/">Home 2</Link>
           <Link to="/otherpage">Other Page</Link>
         </header>
